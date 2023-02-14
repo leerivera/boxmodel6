@@ -5,7 +5,11 @@ a {
     background-color: purple;
 }
 /* Please make the section have a height of 200px, a 10px thick blue border, and a light orange background */
-
+section {
+    height: 200px;
+    border: 10px solid blue;
+    background-color: lightorange;
+}
 /* Please make the aside have a height of 300px, a thin red border, and a teal background  */
 
 /* Please make the aside paragraph have white text, 18px, and a red underline */
